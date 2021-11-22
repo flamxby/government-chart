@@ -66,7 +66,7 @@
     * **npm** is committed to making JavaScript development elegant, productive, and safe. 
 
 ## How to start the application and verify it is working
-1. **Clone** [vaccination report](https://github.com/flamxby/government-chart) project to your machine. [*See how to clone the project.*](https://github.com/flamxby/government-chart/blob/master/INSTALL.md#how-to-clone-government-project)
+1. **Clone** [vaccination report](https://github.com/flamxby/government-chart) project to your machine. [*See how to clone the project.*](https://github.com/flamxby/government-chart/blob/master/INSTALL.md#how-to-clone-vaccination-report-project)
 2. Follows the [**steps needed to configure the application for running**](https://github.com/flamxby/government-chart/blob/master/INSTALL.md#steps-needed-to-configure-the-application-for-running).
 3. Start the application
     * Run the application

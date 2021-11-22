@@ -89,10 +89,15 @@
                 Search for the keywords to learn more about each warning.
                 To ignore, add // eslint-disable-next-line to the line before.
                 ``` 
-    * Chart Window will open up
+    * Chart Window will open automatically.
 
 5. Quit the application
     * Exit the terminal window
         * Linux/MacOS: Press `CTRL + C` button
         * Windows: Press `CTRL + C` button
+    * Terminal window will ask: Terminate batch job (Y/N)?
+        ```
+            cmd> Y
+        ```
+    
     

@@ -77,14 +77,25 @@ function App() {
 
   return (
     <div className="App">
+      <div className="title" align="center">
+        <h3>Vaccination Report</h3>
+      </div>
       <div className="chart">
         <Line
           data={chartData}
           options={{
             responsive: true,
+            borderWidth: 1,
+            borderColor: 'rgb(75, 192, 192)',
+            pointBorderWidth: 3,
             scales: {
               y: {
                 beginAtZero: true,
+                min: 0,
+                max: 5,
+                ticks: {
+                  stepSize: 1,
+                },
               },
             },
           }}

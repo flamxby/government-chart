@@ -92,7 +92,7 @@ function App() {
               y: {
                 beginAtZero: true,
                 min: 0,
-                max: 5,
+                max: 30,
                 ticks: {
                   stepSize: 1,
                 },

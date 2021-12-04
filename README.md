@@ -10,4 +10,17 @@ The report of the number of vaccination takers per site per day. This is the pro
 * [Project Installation Instructions](INSTALL.md)
 
 ## Vaccination Report Web Interface
-https://flamxby-chart.netlify.app/
+* [Vaccination Report of Flamby](https://flamxby-chart.netlify.app/)
+
+***
+## Team Members and Contributors
+### Product Owner
+* [Purich TRAINORAPONG](https://github.com/jeanyjean)
+### Scrum Master
+* [Nuttapol KORCHAROENRAT](https://github.com/nuttapol-kor)
+### Development Team
+* [Ingkharat JANGCHUD](https://github.com/ingkharatj) 
+* [Panida OUNNAITHAM](https://github.com/PanidaOun)
+* [Phinyaphak CHIRADEJTHANANKORN](https://github.com/vnsvakanda)
+* [Phakarat KHONGPHAISAN](https://github.com/pakarat044)
+* [Pitchapa SAE-LIM](https://github.com/PitchapaSaelim)
